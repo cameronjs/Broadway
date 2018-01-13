@@ -17,12 +17,18 @@ h3 {
   font-weight: bold;
 }
 a {
-  font-size: 18px;
+  font-size: 18px!important;
 }
 p {
-  font-size: 14px
+  font-size: 14px;
 }
 .navigation {
   background-image: url("../images/building.png");
   color: white;
+}
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
