@@ -24,6 +24,9 @@ p {
 }
 .navigation {
   background-image: url("../images/building.png");
+}
+.navigation,
+a {
   color: white;
 }
 footer {
